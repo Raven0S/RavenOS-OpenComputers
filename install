@@ -1,3 +1,0 @@
-require("component").eeprom.set([[
-  local handle, data, chunk = component.proxy(component.list("internet")
-  ()).request("https://raw.githubusercontent.com/Raven0S/RavenOS-OpenComputers/master/test")
